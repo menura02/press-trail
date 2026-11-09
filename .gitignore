@@ -1,0 +1,11 @@
+.env
+.deps/
+.npm-cache/
+.pg-test/
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.db
+*.log

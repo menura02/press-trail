@@ -1,0 +1,13 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+SQLAlchemy==2.0.41
+alembic==1.16.1
+psycopg[binary]==3.2.9
+feedparser==6.0.11
+defusedxml==0.7.1
+protego==0.6.2
+beautifulsoup4==4.13.4
+readability-lxml==0.8.4.1
+python-dateutil==2.9.0.post0
+scikit-learn==1.6.1
+tzdata==2025.2

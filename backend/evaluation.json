@@ -1,0 +1,86 @@
+[
+  {
+    "id": "S1",
+    "event": "sel",
+    "title": "İzmir'de kuvvetli yağış sonrası yollar kapandı",
+    "body": "İzmir'in Konak ilçesinde pazartesi akşamı kuvvetli yağış nedeniyle iki alt geçit trafiğe kapatıldı. Belediye ekipleri su tahliyesi için çalışma başlattı."
+  },
+  {
+    "id": "S2",
+    "event": "sel",
+    "title": "Konak'ta yağış sonrası iki alt geçit kapalı",
+    "body": "İzmir'in Konak ilçesinde pazartesi akşamı kuvvetli yağış nedeniyle iki alt geçit trafiğe kapatıldı. Belediye ekipleri su tahliyesi çalışmalarını sürdürüyor."
+  },
+  {
+    "id": "S3",
+    "event": "sel",
+    "title": "Konak'ta ulaşımı sağanak vurdu",
+    "body": "Pazartesi mesai çıkışındaki sağanak, Konak'ta iki tünelin araçlara kapatılmasına yol açtı. İzmir Belediyesi biriken suyu pompalarla boşaltıyor."
+  },
+  {
+    "id": "S4",
+    "event": "baska-sel",
+    "title": "İzmir'de kuvvetli yağış sonrası yollar kapandı",
+    "body": "İzmir'in Bornova ilçesinde çarşamba sabahı kuvvetli yağış nedeniyle iki alt geçit trafiğe kapatıldı. Belediye ekipleri su tahliyesi için çalışma başlattı."
+  },
+  {
+    "id": "T1",
+    "event": "tramvay",
+    "title": "Yeni tramvay hattı cumartesi hizmete giriyor",
+    "body": "Kıyı tramvay hattı cumartesi sabahı yolcu taşımaya başlayacak. Hattın yedi durağı bulunuyor. İlk hafta seferler ücretsiz olacak."
+  },
+  {
+    "id": "T2",
+    "event": "tramvay",
+    "title": "Kıyı tramvayında ilk hafta ücretsiz sefer",
+    "body": "Kıyı tramvay hattı cumartesi sabahı yolcu taşımaya başlayacak. Yedi duraklı hattın ilk hafta seferleri ücretsiz olacak."
+  },
+  {
+    "id": "T3",
+    "event": "tramvay",
+    "title": "Yedi duraklık raylı bağlantı açılıyor",
+    "body": "Belediye, sahil bölgesindeki raylı sistem uzatmasını hafta sonunda açıyor. Yolcular ilk yedi gün bilet ödemeden ulaşım sağlayabilecek."
+  },
+  {
+    "id": "T4",
+    "event": "tramvay-ariza",
+    "title": "Kıyı tramvayı kısa süreli durdu",
+    "body": "Kıyı tramvay hattı salı sabahı elektrik arızası nedeniyle durdu. Yolcular otobüslerle taşındı. Ekipler hattı öğleden sonra yeniden açtı."
+  },
+  {
+    "id": "Y1",
+    "event": "yangin",
+    "title": "Bergama'da depoda yangın çıktı",
+    "body": "Bergama sanayi bölgesinde cuma gecesi bir ambalaj deposunda yangın çıktı. Altı itfaiye aracı müdahale etti. Yaralanan olmadı."
+  },
+  {
+    "id": "Y2",
+    "event": "yangin",
+    "title": "Ambalaj deposundaki yangın söndürüldü",
+    "body": "Bergama sanayi bölgesinde cuma gecesi ambalaj deposunda çıkan yangına altı itfaiye aracı müdahale etti. Olayda yaralanan olmadı."
+  },
+  {
+    "id": "Y3",
+    "event": "yangin-tatbikat",
+    "title": "Bergama sanayi bölgesinde yangın tatbikatı",
+    "body": "Bergama sanayi bölgesinde cuma gündüzü ambalaj deposunda yangın tatbikatı yapıldı. İtfaiye araçları ve depo çalışanları tahliye provası yaptı."
+  },
+  {
+    "id": "P1",
+    "event": "pazar",
+    "title": "Üretici pazarı yeni meydana taşındı",
+    "body": "Kooperatifin haftalık üretici pazarı eski garın önündeki meydana taşındı. Tezgâhlar pazar günü sabah sekizde açılacak."
+  },
+  {
+    "id": "P2",
+    "event": "pazar",
+    "title": "Üretici pazarının yeni adresi eski gar",
+    "body": "Kooperatifin haftalık üretici pazarı eski garın önündeki meydana taşındı. Tezgâhlar pazar günü sabah sekizde açılacak."
+  },
+  {
+    "id": "K1",
+    "event": "kutuphane",
+    "title": "İlçe kütüphanesi açılış saatlerini uzattı",
+    "body": "Öğrencilerin sınav haftasında çalışma alanına erişebilmesi için ilçe kütüphanesi hafta içi gece ona kadar açık kalacak."
+  }
+]

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Deneme Yayını</title><link>https://gazete.example.org/</link><description>Test beslemesi</description>
+<item><title>Ardıç barajında su seviyesi yükseldi</title><link>/haber?konu=baraj&amp;sayi=1</link><guid isPermaLink="false">baraj-1</guid><description>Ardıç belediyesi yağışların ardından baraj doluluk oranının arttığını açıkladı.</description><pubDate>Tue, 13 May 2025 09:15:00 +0300</pubDate></item>
+<item><title>Bozuk bağlantı</title><link>javascript:alert(1)</link></item>
+</channel></rss>

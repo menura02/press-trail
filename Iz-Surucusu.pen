@@ -1,0 +1,3108 @@
+{
+  "version": "2.22",
+  "children": [
+    {
+      "type": "frame",
+      "id": "SqDQ0",
+      "x": 0,
+      "y": 0,
+      "name": "01 · Masaüstü / Genel görünüm",
+      "width": 1440,
+      "height": 900,
+      "fill": "#f7f7f7",
+      "layout": "none",
+      "children": [
+        {
+          "type": "frame",
+          "id": "d86Vw2",
+          "x": 0,
+          "y": 0,
+          "name": "Gezinme",
+          "width": 232,
+          "height": 900,
+          "fill": "$ink",
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "r8WikR",
+              "x": 22,
+              "y": 17,
+              "name": "Radar simgesi",
+              "width": 39,
+              "height": 39,
+              "fill": "$signal-red",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ANOwT",
+                  "x": 9,
+                  "y": 6,
+                  "name": "◉",
+                  "fill": "#ffffff",
+                  "content": "◉",
+                  "fontFamily": "Inter",
+                  "fontSize": 22,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "CXBhF",
+              "x": 72,
+              "y": 17,
+              "name": "İz Sürücüsü",
+              "fill": "#ffffff",
+              "content": "İz Sürücüsü",
+              "fontFamily": "Inter",
+              "fontSize": 17,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "w0yPgO",
+              "x": 72,
+              "y": 39,
+              "name": "HABER İSTİHBARATI",
+              "fill": "$neutral",
+              "content": "HABER İSTİHBARATI",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "jFDIb",
+              "x": 26,
+              "y": 100,
+              "name": "ÇALIŞMA ALANI",
+              "fill": "$neutral",
+              "content": "ÇALIŞMA ALANI",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "yu9hn",
+              "x": 26,
+              "y": 850,
+              "name": "●  Yerel çalışma alanı",
+              "fill": "$neutral",
+              "content": "●  Yerel çalışma alanı",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "H3s5ce",
+              "x": 16,
+              "y": 124,
+              "name": "Genel görünüm",
+              "width": 200,
+              "height": 38,
+              "fill": "#505050",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "SD7PY",
+                  "x": 10,
+                  "y": 9,
+                  "name": "▦",
+                  "fill": "$signal-pink",
+                  "content": "▦",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "Y6a3eA",
+                  "x": 34,
+                  "y": 10,
+                  "name": "Genel görünüm",
+                  "fill": "#ffffff",
+                  "content": "Genel görünüm",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "l3p3X",
+              "x": 16,
+              "y": 172,
+              "name": "Kaynaklar",
+              "width": 200,
+              "height": 38,
+              "fill": "$ink",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "AfuQF",
+                  "x": 10,
+                  "y": 9,
+                  "name": "◔",
+                  "fill": "$signal-pink",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "fBDUg",
+                  "x": 34,
+                  "y": 10,
+                  "name": "Kaynaklar",
+                  "fill": "#ffffff",
+                  "content": "Kaynaklar",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "mzYBZ",
+              "x": 16,
+              "y": 220,
+              "name": "Haber grupları",
+              "width": 200,
+              "height": 38,
+              "fill": "$ink",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "K1U1u",
+                  "x": 10,
+                  "y": 9,
+                  "name": "◇",
+                  "fill": "$signal-pink",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "E73MB",
+                  "x": 34,
+                  "y": 10,
+                  "name": "Haber grupları",
+                  "fill": "#ffffff",
+                  "content": "Haber grupları",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Pf0ef",
+          "x": 232,
+          "y": 0,
+          "name": "Konum ve saat",
+          "width": 1208,
+          "height": 64,
+          "fill": "#ffffff",
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "q4d9x",
+              "x": 32,
+              "y": 23,
+              "name": "Araştırma  ›  Genel görünüm",
+              "fill": "#5f5f5f",
+              "content": "Araştırma  ›  Genel görünüm",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "d8GTH",
+              "x": 1060,
+              "y": 23,
+              "name": "İstanbul saati",
+              "fill": "#5f5f5f",
+              "content": "İstanbul saati",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "BC32o",
+          "x": 264,
+          "y": 91,
+          "name": "Haber radarı",
+          "width": 1144,
+          "height": 218,
+          "fill": "$ink",
+          "cornerRadius": 19,
+          "layout": "none",
+          "children": [
+            {
+              "type": "ellipse",
+              "id": "eADJR",
+              "x": 869,
+              "y": 14,
+              "name": "Radar halkası 190",
+              "fill": "#a26475",
+              "width": 190,
+              "height": 190
+            },
+            {
+              "type": "ellipse",
+              "id": "AAO1S",
+              "x": 870,
+              "y": 15,
+              "name": "Radar halkası 188",
+              "fill": "$ink",
+              "width": 188,
+              "height": 188
+            },
+            {
+              "type": "ellipse",
+              "id": "ojFc5",
+              "x": 901,
+              "y": 46,
+              "name": "Radar halkası 126",
+              "fill": "#a26475",
+              "width": 126,
+              "height": 126
+            },
+            {
+              "type": "ellipse",
+              "id": "rzXdD",
+              "x": 902,
+              "y": 47,
+              "name": "Radar halkası 124",
+              "fill": "$ink",
+              "width": 124,
+              "height": 124
+            },
+            {
+              "type": "ellipse",
+              "id": "GtayB",
+              "x": 932,
+              "y": 77,
+              "name": "Radar halkası 64",
+              "fill": "#a26475",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "type": "ellipse",
+              "id": "SmKeO",
+              "x": 933,
+              "y": 78,
+              "name": "Radar halkası 62",
+              "fill": "$ink",
+              "width": 62,
+              "height": 62
+            },
+            {
+              "type": "ellipse",
+              "id": "Q6abX",
+              "x": 960,
+              "y": 105,
+              "name": "Radar noktası",
+              "fill": "$signal-pink",
+              "width": 8,
+              "height": 8
+            },
+            {
+              "type": "ellipse",
+              "id": "t59v9p",
+              "x": 1014,
+              "y": 40,
+              "name": "Radar noktası",
+              "fill": "$signal-pink",
+              "width": 8,
+              "height": 8
+            },
+            {
+              "type": "ellipse",
+              "id": "y7W1l",
+              "x": 908,
+              "y": 131,
+              "name": "Radar noktası",
+              "fill": "$signal-pink",
+              "width": 8,
+              "height": 8
+            },
+            {
+              "type": "ellipse",
+              "id": "ftwTf",
+              "x": 1014,
+              "y": 138,
+              "name": "Radar noktası",
+              "fill": "$signal-pink",
+              "width": 8,
+              "height": 8
+            },
+            {
+              "type": "text",
+              "id": "ZSSJT",
+              "x": 20,
+              "y": 20,
+              "name": "◉  HABER RADARI",
+              "fill": "$signal-pink",
+              "content": "◉  HABER RADARI",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "y7ls7b",
+              "x": 20,
+              "y": 43,
+              "name": "Genel görünüm",
+              "fill": "#ffffff",
+              "content": "Genel görünüm",
+              "fontFamily": "Inter",
+              "fontSize": 49,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "BSjYa",
+              "x": 20,
+              "y": 112,
+              "name": "Haberlerin yayılımını, ortak metin bölümlerini ve kaynak bağlantılarını izleyin.",
+              "fill": "#eeeeee",
+              "content": "Haberlerin yayılımını, ortak metin bölümlerini ve kaynak bağlantılarını izleyin.",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "xcFqn",
+              "x": 20,
+              "y": 151,
+              "name": "Haber gruplarını incele",
+              "width": 207,
+              "height": 36,
+              "fill": "$signal-pink",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "PIeaT",
+                  "x": 11,
+                  "y": 9,
+                  "name": "Haber gruplarını incele  ↗",
+                  "fill": "$ink",
+                  "content": "Haber gruplarını incele  ↗",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "pY6VJ",
+          "x": 264,
+          "y": 328,
+          "name": "Aktif kaynaklar",
+          "width": 372,
+          "height": 91,
+          "fill": "#ffffff",
+          "cornerRadius": 12,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "USjkq",
+              "x": 11,
+              "y": 11,
+              "name": "Gösterge simgesi",
+              "width": 29,
+              "height": 29,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "XKjZj",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "ay4KX",
+              "x": 50,
+              "y": 10,
+              "name": "Aktif kaynaklar",
+              "fill": "#5f5f5f",
+              "content": "Aktif kaynaklar",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "dU1mb",
+              "x": 50,
+              "y": 28,
+              "name": "0",
+              "fill": "$ink",
+              "content": "0",
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "x7wAHV",
+              "x": 50,
+              "y": 61,
+              "name": "Örnek kaynaklar hariç",
+              "fill": "#5f5f5f",
+              "content": "Örnek kaynaklar hariç",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "LbouX",
+          "x": 650,
+          "y": 328,
+          "name": "Son haber grupları",
+          "width": 372,
+          "height": 91,
+          "fill": "#ffffff",
+          "cornerRadius": 12,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "hk7tR",
+              "x": 11,
+              "y": 11,
+              "name": "Gösterge simgesi",
+              "width": 29,
+              "height": 29,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "okqDc",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◇",
+                  "fill": "$accent-text",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "tga4T",
+              "x": 50,
+              "y": 10,
+              "name": "Son haber grupları",
+              "fill": "#5f5f5f",
+              "content": "Son haber grupları",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "qPiv4",
+              "x": 50,
+              "y": 28,
+              "name": "2",
+              "fill": "$ink",
+              "content": "2",
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "AxM6p",
+              "x": 50,
+              "y": 61,
+              "name": "Örnek veri dahil",
+              "fill": "#5f5f5f",
+              "content": "Örnek veri dahil",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "d09BJm",
+          "x": 1036,
+          "y": 328,
+          "name": "Bekleyen işler",
+          "width": 372,
+          "height": 91,
+          "fill": "#ffffff",
+          "cornerRadius": 12,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "Shrx2",
+              "x": 11,
+              "y": 11,
+              "name": "Gösterge simgesi",
+              "width": 29,
+              "height": 29,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Zq6mK",
+                  "x": 7,
+                  "y": 3,
+                  "name": "∿",
+                  "fill": "$accent-text",
+                  "content": "∿",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "oF5hM",
+              "x": 50,
+              "y": 10,
+              "name": "Bekleyen işler",
+              "fill": "#5f5f5f",
+              "content": "Bekleyen işler",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "Ptybm",
+              "x": 50,
+              "y": 28,
+              "name": "0",
+              "fill": "$ink",
+              "content": "0",
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "mAVnb",
+              "x": 50,
+              "y": 61,
+              "name": "Son 50 iş içinde",
+              "fill": "#5f5f5f",
+              "content": "Son 50 iş içinde",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "fcXY2",
+          "x": 264,
+          "y": 437,
+          "name": "Son haber grupları",
+          "width": 688,
+          "height": 184,
+          "fill": "#ffffff",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "ZEKyG",
+              "x": 16,
+              "y": 16,
+              "name": "Son haber grupları",
+              "fill": "$ink",
+              "content": "Son haber grupları",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "jJIev",
+              "x": 0,
+              "y": 50,
+              "name": "Ayraç",
+              "width": 688,
+              "height": 1,
+              "fill": "#dedede",
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "CZxNO",
+              "x": 587,
+              "y": 18,
+              "name": "Tüm gruplar ↗",
+              "fill": "$accent-text",
+              "content": "Tüm gruplar ↗",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "sKsCG",
+              "x": 13,
+              "y": 62,
+              "name": "Grup simgesi",
+              "width": 30,
+              "height": 30,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "xUsjx",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◇",
+                  "fill": "$accent-text",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "mG1dC",
+              "x": 51,
+              "y": 62,
+              "name": "Üretici pazarı istasyon meydanına taşınıyor",
+              "fill": "$ink",
+              "content": "Üretici pazarı istasyon meydanına taşınıyor",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "blp2X",
+              "x": 51,
+              "y": 95,
+              "name": "GRP-002",
+              "fill": "$accent-text",
+              "content": "GRP-002",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "eLeCH",
+              "x": 109,
+              "y": 88,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "YmuDh",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "abdqc",
+              "x": 627,
+              "y": 73,
+              "name": "1 haber",
+              "fill": "#5f5f5f",
+              "content": "1 haber",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "xwdx0",
+              "x": 13,
+              "y": 124,
+              "name": "Grup simgesi",
+              "width": 30,
+              "height": 30,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "f2gq9d",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◇",
+                  "fill": "$accent-text",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "A8p38",
+              "x": 51,
+              "y": 124,
+              "name": "Ardıç barajında su seviyesi yükseldi",
+              "fill": "$ink",
+              "content": "Ardıç barajında su seviyesi yükseldi",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "lINtH",
+              "x": 51,
+              "y": 157,
+              "name": "GRP-001",
+              "fill": "$accent-text",
+              "content": "GRP-001",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "tm0nI",
+              "x": 109,
+              "y": 150,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "dlTBf",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "VE9zh",
+              "x": 627,
+              "y": 135,
+              "name": "2 haber",
+              "fill": "#5f5f5f",
+              "content": "2 haber",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "hiF6C",
+          "x": 968,
+          "y": 437,
+          "name": "Kaynak durumu",
+          "width": 440,
+          "height": 185,
+          "fill": "#ffffff",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "iEB6n",
+              "x": 16,
+              "y": 16,
+              "name": "Kaynak durumu",
+              "fill": "$ink",
+              "content": "Kaynak durumu",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "mQ5B5",
+              "x": 0,
+              "y": 50,
+              "name": "Ayraç",
+              "width": 440,
+              "height": 1,
+              "fill": "#dedede",
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "gBQLg",
+              "x": 370,
+              "y": 18,
+              "name": "Yönet ↗",
+              "fill": "$accent-text",
+              "content": "Yönet ↗",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "W1kSo9",
+              "x": 13,
+              "y": 61,
+              "name": "RSS simgesi",
+              "width": 27,
+              "height": 27,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "S9uuJ",
+                  "x": 6,
+                  "y": 2,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "q96IX",
+              "x": 48,
+              "y": 66,
+              "name": "Ardıç Bülteni · Örnek",
+              "fill": "$ink",
+              "content": "Ardıç Bülteni · Örnek",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "c7k2T",
+              "x": 358,
+              "y": 62,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ns5yH",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "W3Aex",
+              "x": 13,
+              "y": 100,
+              "name": "RSS simgesi",
+              "width": 27,
+              "height": 27,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "S8zUhE",
+                  "x": 6,
+                  "y": 2,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "H10eA0",
+              "x": 48,
+              "y": 105,
+              "name": "Vadi Notları · Örnek",
+              "fill": "$ink",
+              "content": "Vadi Notları · Örnek",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "q7jfvS",
+              "x": 358,
+              "y": 101,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "pDyyf",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "cNUrB",
+              "x": 13,
+              "y": 139,
+              "name": "RSS simgesi",
+              "width": 27,
+              "height": 27,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "kbD8g",
+                  "x": 6,
+                  "y": 2,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "UAr19",
+              "x": 48,
+              "y": 144,
+              "name": "İncir Postası · Örnek",
+              "fill": "$ink",
+              "content": "İncir Postası · Örnek",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "oq3fg",
+              "x": 358,
+              "y": 140,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "pt6va",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "vaZPo",
+          "x": 264,
+          "y": 638,
+          "name": "Son toplama işleri",
+          "width": 1144,
+          "height": 106,
+          "fill": "#ffffff",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "LVIRC",
+              "x": 16,
+              "y": 16,
+              "name": "Son toplama işleri",
+              "fill": "$ink",
+              "content": "Son toplama işleri",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "xPhiC",
+              "x": 0,
+              "y": 50,
+              "name": "Ayraç",
+              "width": 1144,
+              "height": 1,
+              "fill": "#dedede",
+              "layout": "none"
+            },
+            {
+              "type": "frame",
+              "id": "UiCah",
+              "x": 15,
+              "y": 62,
+              "name": "Boş durum",
+              "width": 1114,
+              "height": 32,
+              "fill": "#f2f2f2",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "SVJc4",
+                  "x": 10,
+                  "y": 7,
+                  "name": "Henüz toplama işi yok.",
+                  "fill": "#5f5f5f",
+                  "content": "Henüz toplama işi yok.",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "GgLol",
+          "x": 264,
+          "y": 780,
+          "name": "Haber Kaynağı İz Sürücüsü  ·  Europe/Istanbul",
+          "fill": "#5f5f5f",
+          "content": "Haber Kaynağı İz Sürücüsü  ·  Europe/Istanbul",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "R3eYX",
+      "x": 1520,
+      "y": 0,
+      "name": "02 · Mobil / Genel görünüm",
+      "width": 390,
+      "height": 1135,
+      "fill": "#f7f7f7",
+      "layout": "none",
+      "children": [
+        {
+          "type": "frame",
+          "id": "WEZjE",
+          "x": 0,
+          "y": 0,
+          "name": "Gezinme",
+          "width": 390,
+          "height": 111,
+          "fill": "$ink",
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "fifKx",
+              "x": 14,
+              "y": 17,
+              "name": "Radar simgesi",
+              "width": 39,
+              "height": 39,
+              "fill": "$signal-red",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "p65izK",
+                  "x": 9,
+                  "y": 6,
+                  "name": "◉",
+                  "fill": "#ffffff",
+                  "content": "◉",
+                  "fontFamily": "Inter",
+                  "fontSize": 22,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "OmQlj",
+              "x": 62,
+              "y": 17,
+              "name": "İz Sürücüsü",
+              "fill": "#ffffff",
+              "content": "İz Sürücüsü",
+              "fontFamily": "Inter",
+              "fontSize": 17,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "eG16G",
+              "x": 62,
+              "y": 39,
+              "name": "HABER İSTİHBARATI",
+              "fill": "$neutral",
+              "content": "HABER İSTİHBARATI",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "v44MHJ",
+              "x": 14,
+              "y": 63,
+              "name": "Genel görünüm",
+              "width": 116,
+              "height": 42,
+              "fill": "#505050",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "J5hQH",
+                  "x": 50,
+                  "y": 3,
+                  "name": "▦",
+                  "fill": "$signal-pink",
+                  "content": "▦",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "oNH9K",
+                  "x": 11,
+                  "y": 21,
+                  "name": "Genel görünüm",
+                  "fill": "#ffffff",
+                  "content": "Genel görünüm",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zBspd",
+              "x": 135,
+              "y": 63,
+              "name": "Kaynaklar",
+              "width": 116,
+              "height": 42,
+              "fill": "$ink",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "zgTRX",
+                  "x": 50,
+                  "y": 3,
+                  "name": "◔",
+                  "fill": "$signal-pink",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "k5pfZ",
+                  "x": 30,
+                  "y": 21,
+                  "name": "Kaynaklar",
+                  "fill": "#ffffff",
+                  "content": "Kaynaklar",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "FQPHC",
+              "x": 256,
+              "y": 63,
+              "name": "Haber grupları",
+              "width": 116,
+              "height": 42,
+              "fill": "$ink",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "jB9zy",
+                  "x": 50,
+                  "y": 3,
+                  "name": "◇",
+                  "fill": "$signal-pink",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "eAhxx",
+                  "x": 11,
+                  "y": 21,
+                  "name": "Haber grupları",
+                  "fill": "#ffffff",
+                  "content": "Haber grupları",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ngqel",
+          "x": 0,
+          "y": 111,
+          "name": "Konum ve saat",
+          "width": 390,
+          "height": 44,
+          "fill": "#ffffff",
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "wzrEI",
+              "x": 14,
+              "y": 14,
+              "name": "Araştırma  ›  Genel görünüm",
+              "fill": "#5f5f5f",
+              "content": "Araştırma  ›  Genel görünüm",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "hZqT6",
+              "x": 287,
+              "y": 14,
+              "name": "İstanbul saati",
+              "fill": "#5f5f5f",
+              "content": "İstanbul saati",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "vCVgs",
+          "x": 14,
+          "y": 171,
+          "name": "Haber radarı",
+          "width": 362,
+          "height": 196,
+          "fill": "$ink",
+          "cornerRadius": 19,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "RwfyY",
+              "x": 20,
+              "y": 20,
+              "name": "◉  HABER RADARI",
+              "fill": "$signal-pink",
+              "content": "◉  HABER RADARI",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "O0C1bu",
+              "x": 20,
+              "y": 43,
+              "name": "Genel görünüm",
+              "fill": "#ffffff",
+              "content": "Genel görünüm",
+              "fontFamily": "Inter",
+              "fontSize": 33,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "cNNVz",
+              "x": 20,
+              "y": 91,
+              "name": "Haberlerin yayılımını, ortak metin bölümlerini",
+              "fill": "#eeeeee",
+              "content": "Haberlerin yayılımını, ortak metin bölümlerini",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "TUcZ7",
+              "x": 20,
+              "y": 113,
+              "name": "ve kaynak bağlantılarını izleyin.",
+              "fill": "#eeeeee",
+              "content": "ve kaynak bağlantılarını izleyin.",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "Zdfd4",
+              "x": 20,
+              "y": 145,
+              "name": "Haber gruplarını incele",
+              "width": 207,
+              "height": 36,
+              "fill": "$signal-pink",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "eSbqQ",
+                  "x": 11,
+                  "y": 9,
+                  "name": "Haber gruplarını incele  ↗",
+                  "fill": "$ink",
+                  "content": "Haber gruplarını incele  ↗",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "F0XsI",
+          "x": 14,
+          "y": 384,
+          "name": "Aktif kaynaklar",
+          "width": 362,
+          "height": 50,
+          "fill": "#ffffff",
+          "cornerRadius": 12,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "Sj1eF",
+              "x": 11,
+              "y": 11,
+              "name": "Gösterge simgesi",
+              "width": 29,
+              "height": 29,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "QF1gP",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "iSmV1",
+              "x": 50,
+              "y": 10,
+              "name": "Aktif kaynaklar",
+              "fill": "#5f5f5f",
+              "content": "Aktif kaynaklar",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "oWPv9",
+              "x": 331,
+              "y": 12,
+              "name": "0",
+              "fill": "$ink",
+              "content": "0",
+              "fontFamily": "Inter",
+              "fontSize": 20,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "NchvI",
+              "x": 50,
+              "y": 28,
+              "name": "Örnek kaynaklar hariç",
+              "fill": "#5f5f5f",
+              "content": "Örnek kaynaklar hariç",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "BklLD",
+          "x": 14,
+          "y": 441,
+          "name": "Son haber grupları",
+          "width": 362,
+          "height": 50,
+          "fill": "#ffffff",
+          "cornerRadius": 12,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "kj1Wi",
+              "x": 11,
+              "y": 11,
+              "name": "Gösterge simgesi",
+              "width": 29,
+              "height": 29,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "UMeyV",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◇",
+                  "fill": "$accent-text",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "J4MOD",
+              "x": 50,
+              "y": 10,
+              "name": "Son haber grupları",
+              "fill": "#5f5f5f",
+              "content": "Son haber grupları",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "uTkwj",
+              "x": 331,
+              "y": 12,
+              "name": "2",
+              "fill": "$ink",
+              "content": "2",
+              "fontFamily": "Inter",
+              "fontSize": 20,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "Qj2m3",
+              "x": 50,
+              "y": 28,
+              "name": "Örnek veri dahil",
+              "fill": "#5f5f5f",
+              "content": "Örnek veri dahil",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "N7kAJ",
+          "x": 14,
+          "y": 498,
+          "name": "Bekleyen işler",
+          "width": 362,
+          "height": 50,
+          "fill": "#ffffff",
+          "cornerRadius": 12,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "WvjSC",
+              "x": 11,
+              "y": 11,
+              "name": "Gösterge simgesi",
+              "width": 29,
+              "height": 29,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "f8jJ8",
+                  "x": 7,
+                  "y": 3,
+                  "name": "∿",
+                  "fill": "$accent-text",
+                  "content": "∿",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "ScFrV",
+              "x": 50,
+              "y": 10,
+              "name": "Bekleyen işler",
+              "fill": "#5f5f5f",
+              "content": "Bekleyen işler",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "i6b2eM",
+              "x": 331,
+              "y": 12,
+              "name": "0",
+              "fill": "$ink",
+              "content": "0",
+              "fontFamily": "Inter",
+              "fontSize": 20,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "qdUcM",
+              "x": 50,
+              "y": 28,
+              "name": "Son 50 iş içinde",
+              "fill": "#5f5f5f",
+              "content": "Son 50 iş içinde",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "b62qcL",
+          "x": 14,
+          "y": 563,
+          "name": "Son haber grupları",
+          "width": 362,
+          "height": 184,
+          "fill": "#ffffff",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "AzaHz",
+              "x": 16,
+              "y": 16,
+              "name": "Son haber grupları",
+              "fill": "$ink",
+              "content": "Son haber grupları",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "YK8eT",
+              "x": 0,
+              "y": 50,
+              "name": "Ayraç",
+              "width": 362,
+              "height": 1,
+              "fill": "#dedede",
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "q7o6MF",
+              "x": 261,
+              "y": 18,
+              "name": "Tüm gruplar ↗",
+              "fill": "$accent-text",
+              "content": "Tüm gruplar ↗",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "t5Hzp",
+              "x": 13,
+              "y": 62,
+              "name": "Grup simgesi",
+              "width": 30,
+              "height": 30,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "jKkAQ",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◇",
+                  "fill": "$accent-text",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "tQgb2",
+              "x": 51,
+              "y": 62,
+              "name": "Üretici pazarı istasyon",
+              "fill": "$ink",
+              "content": "Üretici pazarı istasyon",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "ob2QJ",
+              "x": 51,
+              "y": 76,
+              "name": "meydanına taşınıyor",
+              "fill": "$ink",
+              "content": "meydanına taşınıyor",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "u4Jz66",
+              "x": 51,
+              "y": 95,
+              "name": "GRP-002",
+              "fill": "$accent-text",
+              "content": "GRP-002",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "YBiGA",
+              "x": 109,
+              "y": 88,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "qhSQy",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "R8wE0G",
+              "x": 301,
+              "y": 73,
+              "name": "1 haber",
+              "fill": "#5f5f5f",
+              "content": "1 haber",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "bPBnn",
+              "x": 13,
+              "y": 124,
+              "name": "Grup simgesi",
+              "width": 30,
+              "height": 30,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ZMz8Y",
+                  "x": 7,
+                  "y": 3,
+                  "name": "◇",
+                  "fill": "$accent-text",
+                  "content": "◇",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "YqCLL",
+              "x": 51,
+              "y": 124,
+              "name": "Ardıç barajında su",
+              "fill": "$ink",
+              "content": "Ardıç barajında su",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "jAA09",
+              "x": 51,
+              "y": 138,
+              "name": "seviyesi yükseldi",
+              "fill": "$ink",
+              "content": "seviyesi yükseldi",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "zqyxA",
+              "x": 51,
+              "y": 157,
+              "name": "GRP-001",
+              "fill": "$accent-text",
+              "content": "GRP-001",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "m5yonO",
+              "x": 109,
+              "y": 150,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "uKoJB",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "cXSCA",
+              "x": 301,
+              "y": 135,
+              "name": "2 haber",
+              "fill": "#5f5f5f",
+              "content": "2 haber",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "liEFm",
+          "x": 14,
+          "y": 761,
+          "name": "Kaynak durumu",
+          "width": 362,
+          "height": 185,
+          "fill": "#ffffff",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "EFfUV",
+              "x": 16,
+              "y": 16,
+              "name": "Kaynak durumu",
+              "fill": "$ink",
+              "content": "Kaynak durumu",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "j7bHBA",
+              "x": 0,
+              "y": 50,
+              "name": "Ayraç",
+              "width": 362,
+              "height": 1,
+              "fill": "#dedede",
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "Vlq95",
+              "x": 292,
+              "y": 18,
+              "name": "Yönet ↗",
+              "fill": "$accent-text",
+              "content": "Yönet ↗",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "qsbfD",
+              "x": 13,
+              "y": 61,
+              "name": "RSS simgesi",
+              "width": 27,
+              "height": 27,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "T6rzoF",
+                  "x": 6,
+                  "y": 2,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "NVtpP",
+              "x": 48,
+              "y": 66,
+              "name": "Ardıç Bülteni · Örnek",
+              "fill": "$ink",
+              "content": "Ardıç Bülteni · Örnek",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "ltPnK",
+              "x": 280,
+              "y": 62,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "egwfh",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "r1b6A",
+              "x": 13,
+              "y": 100,
+              "name": "RSS simgesi",
+              "width": 27,
+              "height": 27,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "q5Qv1",
+                  "x": 6,
+                  "y": 2,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "UD2KW",
+              "x": 48,
+              "y": 105,
+              "name": "Vadi Notları · Örnek",
+              "fill": "$ink",
+              "content": "Vadi Notları · Örnek",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "Kb4ng",
+              "x": 280,
+              "y": 101,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "gqxu5",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "sjPOm",
+              "x": 13,
+              "y": 139,
+              "name": "RSS simgesi",
+              "width": 27,
+              "height": 27,
+              "fill": "$rose-tint",
+              "cornerRadius": 7,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "o3S1ZL",
+                  "x": 6,
+                  "y": 2,
+                  "name": "◔",
+                  "fill": "$accent-text",
+                  "content": "◔",
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "NRRRv",
+              "x": 48,
+              "y": 144,
+              "name": "İncir Postası · Örnek",
+              "fill": "$ink",
+              "content": "İncir Postası · Örnek",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "S6IXqo",
+              "x": 280,
+              "y": 140,
+              "name": "Örnek veri etiketi",
+              "width": 70,
+              "height": 22,
+              "fill": "$rose-tint",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "wp6KO",
+                  "x": 8,
+                  "y": 4,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "sdQmY",
+          "x": 14,
+          "y": 960,
+          "name": "Son toplama işleri",
+          "width": 362,
+          "height": 106,
+          "fill": "#ffffff",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "AAZ9u",
+              "x": 16,
+              "y": 16,
+              "name": "Son toplama işleri",
+              "fill": "$ink",
+              "content": "Son toplama işleri",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "fNSor",
+              "x": 0,
+              "y": 50,
+              "name": "Ayraç",
+              "width": 362,
+              "height": 1,
+              "fill": "#dedede",
+              "layout": "none"
+            },
+            {
+              "type": "frame",
+              "id": "k6ZSGZ",
+              "x": 15,
+              "y": 62,
+              "name": "Boş durum",
+              "width": 332,
+              "height": 32,
+              "fill": "#f2f2f2",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "F4tlQT",
+                  "x": 10,
+                  "y": 7,
+                  "name": "Henüz toplama işi yok.",
+                  "fill": "#5f5f5f",
+                  "content": "Henüz toplama işi yok.",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "QmnGH",
+          "x": 14,
+          "y": 1090,
+          "name": "Haber Kaynağı İz Sürücüsü  ·  Europe/Istanbul",
+          "fill": "#5f5f5f",
+          "content": "Haber Kaynağı İz Sürücüsü  ·  Europe/Istanbul",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Tvfd7",
+      "x": 1990,
+      "y": 0,
+      "name": "Tasarım sistemi",
+      "width": 1200,
+      "height": 920,
+      "fill": "#f7f7f7",
+      "layout": "none",
+      "children": [
+        {
+          "type": "frame",
+          "id": "Z5Btp",
+          "x": 0,
+          "y": 0,
+          "name": "Başlık",
+          "width": 1200,
+          "height": 132,
+          "fill": "$ink",
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "xRLjm",
+              "x": 36,
+              "y": 23,
+              "name": "İZ SÜRÜCÜSÜ  /  TASARIM TEMELLERİ",
+              "fill": "$signal-pink",
+              "content": "İZ SÜRÜCÜSÜ  /  TASARIM TEMELLERİ",
+              "fontFamily": "Consolas",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "EZTsH",
+              "x": 36,
+              "y": 44,
+              "name": "Tasarım sistemi",
+              "fill": "$surface",
+              "content": "Tasarım sistemi",
+              "fontFamily": "Segoe UI",
+              "fontSize": 45,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "da3xv",
+              "x": 36,
+              "y": 103,
+              "name": "Ana sayfa ve araştırma paneli için ortak renk, yazı ve bileşenler.",
+              "fill": "$neutral",
+              "content": "Ana sayfa ve araştırma paneli için ortak renk, yazı ve bileşenler.",
+              "fontFamily": "Segoe UI",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "GoRmk",
+          "x": 36,
+          "y": 160,
+          "name": "01  /  RENK PALETİ",
+          "fill": "$accent-text",
+          "content": "01  /  RENK PALETİ",
+          "fontFamily": "Consolas",
+          "fontSize": 14,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "UQ1Zh",
+          "x": 36,
+          "y": 190,
+          "name": "Kömür",
+          "width": 270,
+          "height": 138,
+          "fill": "$ink",
+          "cornerRadius": 13,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "lw5B6",
+              "x": 16,
+              "y": 15,
+              "name": "Kömür",
+              "fill": "$surface",
+              "content": "Kömür",
+              "fontFamily": "Segoe UI",
+              "fontSize": 19,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "SLEtY",
+              "x": 16,
+              "y": 51,
+              "name": "#363636",
+              "fill": "$surface",
+              "content": "#363636",
+              "fontFamily": "Consolas",
+              "fontSize": 23,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "rzPVl",
+              "x": 16,
+              "y": 104,
+              "name": "Metin, gezinme, radar zemini",
+              "fill": "$surface",
+              "content": "Metin, gezinme, radar zemini",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "zyWk8",
+          "x": 322,
+          "y": 190,
+          "name": "Sinyal kırmızısı",
+          "width": 270,
+          "height": 138,
+          "fill": "$signal-red",
+          "cornerRadius": 13,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "uQwzF",
+              "x": 16,
+              "y": 15,
+              "name": "Sinyal kırmızısı",
+              "fill": "$surface",
+              "content": "Sinyal kırmızısı",
+              "fontFamily": "Segoe UI",
+              "fontSize": 19,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "iNd3N",
+              "x": 16,
+              "y": 51,
+              "name": "#E7133F",
+              "fill": "$surface",
+              "content": "#E7133F",
+              "fontFamily": "Consolas",
+              "fontSize": 23,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "ABeK3",
+              "x": 16,
+              "y": 104,
+              "name": "Birincil eylem ve vurgu",
+              "fill": "$surface",
+              "content": "Birincil eylem ve vurgu",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "n8nip",
+          "x": 608,
+          "y": 190,
+          "name": "Sinyal pembesi",
+          "width": 270,
+          "height": 138,
+          "fill": "$signal-pink",
+          "cornerRadius": 13,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "Bq2EX",
+              "x": 16,
+              "y": 15,
+              "name": "Sinyal pembesi",
+              "fill": "$ink",
+              "content": "Sinyal pembesi",
+              "fontFamily": "Segoe UI",
+              "fontSize": 19,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "gqu8G",
+              "x": 16,
+              "y": 51,
+              "name": "#FF83A5",
+              "fill": "$ink",
+              "content": "#FF83A5",
+              "fontFamily": "Consolas",
+              "fontSize": 23,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "WT0R4",
+              "x": 16,
+              "y": 104,
+              "name": "Koyu zeminde vurgu ve odak",
+              "fill": "$ink",
+              "content": "Koyu zeminde vurgu ve odak",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "CzRmw",
+          "x": 894,
+          "y": 190,
+          "name": "Nötr gri",
+          "width": 270,
+          "height": 138,
+          "fill": "$neutral",
+          "cornerRadius": 13,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "O0KtU",
+              "x": 16,
+              "y": 15,
+              "name": "Nötr gri",
+              "fill": "$ink",
+              "content": "Nötr gri",
+              "fontFamily": "Segoe UI",
+              "fontSize": 19,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "W6SOk",
+              "x": 16,
+              "y": 51,
+              "name": "#CCCCCC",
+              "fill": "$ink",
+              "content": "#CCCCCC",
+              "fontFamily": "Consolas",
+              "fontSize": 23,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "HCppc",
+              "x": 16,
+              "y": 104,
+              "name": "Kenarlık ve ikincil metin",
+              "fill": "$ink",
+              "content": "Kenarlık ve ikincil metin",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "NRUeH",
+          "x": 36,
+          "y": 360,
+          "name": "Tipografi",
+          "width": 540,
+          "height": 324,
+          "fill": "$surface",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "hkxsx",
+              "x": 18,
+              "y": 19,
+              "name": "02  /  TİPOGRAFİ",
+              "fill": "$accent-text",
+              "content": "02  /  TİPOGRAFİ",
+              "fontFamily": "Consolas",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "z18VWv",
+              "x": 18,
+              "y": 48,
+              "name": "Bir haberin izini sür.",
+              "fill": "$ink",
+              "content": "Bir haberin izini sür.",
+              "fontFamily": "Segoe UI",
+              "fontSize": 42,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "pGJxV",
+              "x": 18,
+              "y": 103,
+              "name": "Ana sayfa başlığı · 56–112 px · 800",
+              "fill": "#5f5f5f",
+              "content": "Ana sayfa başlığı · 56–112 px · 800",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "CsXag",
+              "x": 18,
+              "y": 137,
+              "name": "Genel görünüm",
+              "fill": "$ink",
+              "content": "Genel görünüm",
+              "fontFamily": "Segoe UI",
+              "fontSize": 32,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "Tf4c7",
+              "x": 18,
+              "y": 181,
+              "name": "Ürün başlığı · 32–52 px · 700",
+              "fill": "#5f5f5f",
+              "content": "Ürün başlığı · 32–52 px · 700",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "xnvUt",
+              "x": 18,
+              "y": 219,
+              "name": "Haber gruplarını ve kaynak bağlantılarını incele.",
+              "fill": "$ink",
+              "content": "Haber gruplarını ve kaynak bağlantılarını incele.",
+              "fontFamily": "Segoe UI",
+              "fontSize": 16,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "gwHNW",
+              "x": 18,
+              "y": 249,
+              "name": "Gövde · Segoe UI / system-ui · 16 px",
+              "fill": "#5f5f5f",
+              "content": "Gövde · Segoe UI / system-ui · 16 px",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "w7wQB",
+              "x": 18,
+              "y": 283,
+              "name": "GRP-001  /  HABER RADARI",
+              "fill": "$accent-text",
+              "content": "GRP-001  /  HABER RADARI",
+              "fontFamily": "Consolas",
+              "fontSize": 13,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "KAYC8",
+          "x": 596,
+          "y": 360,
+          "name": "Bileşenler ve durumlar",
+          "width": 568,
+          "height": 324,
+          "fill": "$surface",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "m3ECw",
+              "x": 18,
+              "y": 19,
+              "name": "03  /  BİLEŞENLER VE DURUMLAR",
+              "fill": "$accent-text",
+              "content": "03  /  BİLEŞENLER VE DURUMLAR",
+              "fontFamily": "Consolas",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "V8qZSA",
+              "x": 18,
+              "y": 54,
+              "name": "Birincil düğme",
+              "width": 154,
+              "height": 43,
+              "fill": "$signal-red",
+              "cornerRadius": 9,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Lx1IG",
+                  "x": 12,
+                  "y": 11,
+                  "name": "Uygulamayı aç  ↗",
+                  "fill": "$surface",
+                  "content": "Uygulamayı aç  ↗",
+                  "fontFamily": "Segoe UI",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "GaDE0",
+              "x": 185,
+              "y": 54,
+              "name": "İkincil düğme",
+              "width": 167,
+              "height": 43,
+              "fill": "#f2f2f2",
+              "cornerRadius": 9,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "UNb9l",
+                  "x": 13,
+                  "y": 11,
+                  "name": "Nasıl çalışır?",
+                  "fill": "$ink",
+                  "content": "Nasıl çalışır?",
+                  "fontFamily": "Segoe UI",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "UYlxb",
+              "x": 364,
+              "y": 50,
+              "name": "Odak halkası",
+              "width": 166,
+              "height": 51,
+              "fill": "$accent-text",
+              "cornerRadius": 11,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "VllDp",
+                  "x": 3,
+                  "y": 3,
+                  "name": "Odak aralığı",
+                  "width": 160,
+                  "height": 45,
+                  "fill": "$surface",
+                  "cornerRadius": 9,
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "qU8sK",
+                      "x": 15,
+                      "y": 13,
+                      "name": "Klavye odağı",
+                      "fill": "$ink",
+                      "content": "Klavye odağı",
+                      "fontFamily": "Segoe UI",
+                      "fontSize": 14,
+                      "fontWeight": "700"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "GVhZy",
+              "x": 18,
+              "y": 123,
+              "name": "Aktif",
+              "width": 101,
+              "height": 28,
+              "fill": "$ink",
+              "cornerRadius": 14,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "TyOMv",
+                  "x": 11,
+                  "y": 6,
+                  "name": "Aktif",
+                  "fill": "$surface",
+                  "content": "Aktif",
+                  "fontFamily": "Segoe UI",
+                  "fontSize": 12,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "NjNaW",
+              "x": 131,
+              "y": 123,
+              "name": "Örnek veri",
+              "width": 101,
+              "height": 28,
+              "fill": "$rose-tint",
+              "cornerRadius": 14,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "tOnKq",
+                  "x": 11,
+                  "y": 6,
+                  "name": "Örnek veri",
+                  "fill": "$accent-text",
+                  "content": "Örnek veri",
+                  "fontFamily": "Segoe UI",
+                  "fontSize": 12,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "MHdmh",
+              "x": 244,
+              "y": 123,
+              "name": "Duraklatıldı",
+              "width": 101,
+              "height": 28,
+              "fill": "#f2f2f2",
+              "cornerRadius": 14,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "N6bz2",
+                  "x": 11,
+                  "y": 6,
+                  "name": "Duraklatıldı",
+                  "fill": "$ink",
+                  "content": "Duraklatıldı",
+                  "fontFamily": "Segoe UI",
+                  "fontSize": 12,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "Z4zN1K",
+              "x": 18,
+              "y": 174,
+              "name": "RSS / Atom adresi",
+              "fill": "$ink",
+              "content": "RSS / Atom adresi",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "dyzcW",
+              "x": 18,
+              "y": 198,
+              "name": "Metin alanı kenarlığı",
+              "width": 532,
+              "height": 41,
+              "fill": "$neutral",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "TO8yH",
+                  "x": 1,
+                  "y": 1,
+                  "name": "Metin alanı",
+                  "width": 530,
+                  "height": 39,
+                  "fill": "$surface",
+                  "cornerRadius": 7,
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "q0vb0",
+                      "x": 11,
+                      "y": 10,
+                      "name": "https://yayın-adresi.example/rss",
+                      "fill": "#5f5f5f",
+                      "content": "https://yayın-adresi.example/rss",
+                      "fontFamily": "Segoe UI",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "E0HNb8",
+              "x": 18,
+              "y": 262,
+              "name": "Boş durum",
+              "width": 532,
+              "height": 39,
+              "fill": "#f2f2f2",
+              "cornerRadius": 8,
+              "layout": "none",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Aa9hK",
+                  "x": 12,
+                  "y": 10,
+                  "name": "Henüz toplama işi yok.",
+                  "fill": "#5f5f5f",
+                  "content": "Henüz toplama işi yok.",
+                  "fontFamily": "Segoe UI",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "A096L",
+          "x": 36,
+          "y": 711,
+          "name": "Ölçüler ve kontrast",
+          "width": 1128,
+          "height": 166,
+          "fill": "$surface",
+          "cornerRadius": 15,
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "d1T5v4",
+              "x": 18,
+              "y": 17,
+              "name": "04  /  ÖLÇÜLER VE KONTRAST",
+              "fill": "$accent-text",
+              "content": "04  /  ÖLÇÜLER VE KONTRAST",
+              "fontFamily": "Consolas",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "P4GTU",
+              "x": 18,
+              "y": 55,
+              "name": "Aralıklar",
+              "fill": "$ink",
+              "content": "Aralıklar",
+              "fontFamily": "Segoe UI",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "vdfxM",
+              "x": 18,
+              "y": 85,
+              "name": "8 · 12 · 16 · 24 · 32 px",
+              "fill": "#5f5f5f",
+              "content": "8 · 12 · 16 · 24 · 32 px",
+              "fontFamily": "Segoe UI",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "I2InR",
+              "x": 376,
+              "y": 55,
+              "name": "Köşe yarıçapı",
+              "fill": "$ink",
+              "content": "Köşe yarıçapı",
+              "fontFamily": "Segoe UI",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "PWIeI",
+              "x": 376,
+              "y": 85,
+              "name": "8 px kontrol  /  15 px panel",
+              "fill": "#5f5f5f",
+              "content": "8 px kontrol  /  15 px panel",
+              "fontFamily": "Segoe UI",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "gSVIe",
+              "x": 737,
+              "y": 55,
+              "name": "Metin kontrastı",
+              "fill": "$ink",
+              "content": "Metin kontrastı",
+              "fontFamily": "Segoe UI",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "M4t4wJ",
+              "x": 737,
+              "y": 85,
+              "name": "Beyaz / kırmızı 4,60:1  ·  Kömür / pembe 5,20:1",
+              "fill": "#5f5f5f",
+              "content": "Beyaz / kırmızı 4,60:1  ·  Kömür / pembe 5,20:1",
+              "fontFamily": "Segoe UI",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "nMDGN",
+              "x": 18,
+              "y": 127,
+              "name": "Küçük kırmızı metinlerde koyu vurgu tonu kullanılır (#B50F32).",
+              "fill": "#5f5f5f",
+              "content": "Küçük kırmızı metinlerde koyu vurgu tonu kullanılır (#B50F32).",
+              "fontFamily": "Segoe UI",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "ink": {
+      "type": "color",
+      "value": "#363636"
+    },
+    "signal-red": {
+      "type": "color",
+      "value": "#E7133F"
+    },
+    "signal-pink": {
+      "type": "color",
+      "value": "#FF83A5"
+    },
+    "neutral": {
+      "type": "color",
+      "value": "#CCCCCC"
+    },
+    "accent-text": {
+      "type": "color",
+      "value": "#B50F32"
+    },
+    "surface": {
+      "type": "color",
+      "value": "#FFFFFF"
+    },
+    "rose-tint": {
+      "type": "color",
+      "value": "#FFF0F4"
+    }
+  },
+  "fileToken": "be8c1aa5-7a2a-4d77-9c89-0adcb64860a1"
+}

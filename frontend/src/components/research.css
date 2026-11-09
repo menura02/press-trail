@@ -1,0 +1,45 @@
+.research-form, .research-stack { display: grid; gap: .8rem; }
+.research-form textarea { width: 100%; min-width: 0; resize: vertical; border: 1px solid var(--neutral); border-radius: 8px; padding: .55rem .65rem; background: white; line-height: 1.55; }
+.research-form textarea[readonly] { background: #f8f8f8; }
+.research-form button { justify-self: start; }
+.research-feedback { margin: 0; width: fit-content; }
+.watch-control { display: grid; gap: .4rem; }
+.watch-control .notice { margin: 0; }
+.watch-button[aria-pressed=true] { background: var(--tint); border-color: #f4c6d2; color: var(--accent); }
+.research-pagination { align-items: center; padding: .75rem 1rem; }
+.research-tags { display: flex; flex-wrap: wrap; gap: .4rem; }
+.source-quote { border-inline-start: 3px solid var(--signal-pink); padding: .55rem .75rem; margin: .3rem 0; background: #f7f7f7; white-space: pre-wrap; }
+.research-evidence, .diff-side { min-width: 0; padding: .8rem; border: 1px solid var(--line); border-radius: 9px; background: white; }
+.research-evidence > * + * { margin-top: .35rem; }
+.research-evidence small { display: block; }
+.review-control { align-items: center; margin-top: .6rem; }
+.diff-item { display: grid; gap: .6rem; padding-block: .65rem; border-top: 1px solid var(--line); }
+.diff-item details summary, .research-details summary { cursor: pointer; font-weight: 650; }
+.diff-side p { white-space: pre-wrap; margin-top: .3rem; }
+.diff-side.before { border-inline-start: 3px solid var(--neutral); }
+.diff-side.after { border-inline-start: 3px solid var(--signal-pink); }
+.diff-tokens { display: grid; gap: .25rem; padding: .55rem 0; }
+.diff-tokens del, .diff-tokens ins { padding: .05em .25em; border-radius: 3px; }
+.diff-tokens del { background: #efefef; }
+.diff-tokens ins { background: var(--tint); }
+.claim-compare { display: grid; gap: 1rem; }
+.claim-pair + .claim-pair { border-top: 1px solid var(--line); }
+.claim-pair { padding: 1rem; }
+.claim-pair .row-line { margin-bottom: .65rem; }
+.claim-pair .review-control { margin-top: .75rem; }
+.claim-table { width: 100%; table-layout: fixed; border-spacing: 0; border-collapse: separate; }
+.claim-table th { text-align: left; font-size: .82rem; color: var(--muted); padding: 0 .4rem .35rem; }
+.claim-table td { vertical-align: top; padding: 0 .4rem; }
+.claim-choice { align-items: start; }
+.claim-choice input { flex: none; margin-top: .2rem; }
+.report-selection { padding: .7rem; border: 1px solid var(--line); border-radius: 8px; }
+.report-selection legend { font-size: .87rem; font-weight: 700; padding-inline: .4rem; }
+.report-selection label + label { margin-top: .45rem; }
+@media (max-width: 490px) {
+  .research-panel .section-head { align-items: start; }
+  .research-form .actions button, .review-control button { min-height: 36px; }
+  .claim-table, .claim-table tbody, .claim-table tr, .claim-table td { display: block; }
+  .claim-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  .claim-table td { padding: .25rem 0; }
+}
+

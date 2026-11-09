@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://atom.example.org/bulten/">
+<title>Atom deneme</title><id>urn:feed:deneme</id><updated>2025-05-13T08:00:00Z</updated>
+<entry><title>Ardıç barajı ölçümü açıklandı</title><link href="olcum"/><id>urn:entry:1</id><summary>Ardıç belediyesi yağışların ardından baraj doluluk oranının arttığını açıkladı.</summary><published>2025-05-13T10:10:00+03:00</published></entry>
+</feed>
