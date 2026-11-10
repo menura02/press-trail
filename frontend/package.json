@@ -1,5 +1,6 @@
 {
-  "name": "haber-kaynagi-iz-surucusu",
+  "name": "press-trail",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {

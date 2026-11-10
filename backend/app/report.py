@@ -155,7 +155,7 @@ def render(db, cluster, payload):
     return f"""<!doctype html>
 <html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
-<title>İz Sürücüsü · {title}</title><style>
+<title>PressTrail · {title}</title><style>
 body{{font:16px/1.55 system-ui,sans-serif;color:#363636;background:#fff;margin:2rem auto;padding:0 1rem;max-width:55rem;overflow-wrap:anywhere}}
 h1{{line-height:1.1}} section{{border-top:1px solid #ccc;margin-top:1.5rem}} article{{margin-block:1.2rem}}
 a{{color:#a20d2b}} blockquote{{border-left:4px solid #ff83a5;margin:1rem 0;padding:.5rem 1rem;background:#fff0f4}}

@@ -15,7 +15,7 @@ export function Home() {
   return <div className="home">
     <a className="skip" href="#icerik">İçeriğe geç</a>
     <header className="home-header"><div className="home-shell home-bar">
-      <a className="home-brand" href="#/" aria-label="İz Sürücüsü ana sayfası"><span className="brand-mark"><Icon name="radar" size={23} /></span> İz Sürücüsü</a>
+      <a className="home-brand" href="#/" aria-label="PressTrail ana sayfası"><span className="brand-mark"><Icon name="radar" size={23} /></span> PressTrail</a>
       <div className="home-header-actions"><a className="home-process-link" href="#nasil-calisir">Nasıl çalışır?</a><OpenProduct /></div>
     </div></header>
     <main id="icerik" className="home-shell home-main" tabIndex={-1}>
@@ -23,7 +23,7 @@ export function Home() {
         <div className="home-copy">
           <p className="home-kicker"><span /> AÇIK KAYNAK ARAŞTIRMASI</p>
           <h1 id="home-title">Bir haberin<br />izini <em>sür.</em></h1>
-          <p>Bir haber ne zaman yayımlandı? Benzer metinler hangi yayınlarda görüldü? İz Sürücüsü zamanları, metinleri ve kaynak bağlantılarını bir araya getirir.</p>
+          <p>Bir haber ne zaman yayımlandı? Benzer metinler hangi yayınlarda görüldü? PressTrail zamanları, metinleri ve kaynak bağlantılarını bir araya getirir.</p>
           <OpenProduct className="launch-primary" />
         </div>
         <figure className="signal-figure">
@@ -52,7 +52,7 @@ export function Home() {
         </li>)}</ol>
       </section>
     </main>
-    <footer className="home-shell home-footer"><strong>İz Sürücüsü</strong><span>Yerel haber araştırma alanı</span><OpenProduct /></footer>
+    <footer className="home-shell home-footer"><strong>PressTrail</strong><span>Yerel haber araştırma alanı</span><OpenProduct /></footer>
   </div>;
 }
 

@@ -1,4 +1,4 @@
-# Haber Kaynağı İz Sürücüsü
+# PressTrail
 
 Seçtiğiniz Türkçe RSS ve Atom yayınlarından haber toplayan yerel bir OSINT çalışma alanı. Her yayın ayrı bir gözlem olarak saklanır. Bir olay adayını incelerken metin benzerliğini, kaynağın bildirdiği yayın sırasını, sistemin gözlem sırasını ve metinden çıkan bağlantıları ayrı ayrı görebilirsiniz. Uygulama kesin ilk kaynak, kopyalama veya haber doğruluğu kararı vermez.
 

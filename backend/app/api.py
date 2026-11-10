@@ -19,7 +19,7 @@ from .queue import enqueue
 from .research import membership_event
 from .report import router as report_router
 
-app = FastAPI(title="Haber Kaynağı İz Sürücüsü")
+app = FastAPI(title="PressTrail", version="0.1.0")
 app.add_middleware(TrustedHostMiddleware, allowed_hosts=["127.0.0.1", "localhost"])
 app.include_router(research_router)
 app.include_router(report_router)

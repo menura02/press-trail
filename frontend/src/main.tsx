@@ -48,9 +48,9 @@ function App() {
   return <div className="workspace">
     <a className="skip" href="#icerik">İçeriğe geç</a>
     <aside className="sidebar">
-      <a className="brand" href="#/uygulama" aria-label="İz Sürücüsü genel görünümü">
+      <a className="brand" href="#/uygulama" aria-label="PressTrail genel görünümü">
         <span className="brand-mark"><Icon name="radar" size={24} /></span>
-        <span><strong>İz Sürücüsü</strong><small>HABER İSTİHBARATI</small></span>
+        <span><strong>PressTrail</strong><small>HABER İSTİHBARATI</small></span>
       </a>
       <span className="nav-caption">ÇALIŞMA ALANI</span>
       <nav aria-label="Ana menü">{routes.map(([path, name, icon]) => <a key={path} href={"#/" + path}
@@ -63,7 +63,7 @@ function App() {
         <div className="timezone"><Icon name="globe" size={16} /> İstanbul saati</div>
       </div></header>
       <main id="icerik" className="shell" tabIndex={-1}>{content}</main>
-      <footer className="shell footer flex flex-wrap justify-between gap-3"><span>Haber Kaynağı İz Sürücüsü</span><span>Europe/Istanbul</span></footer>
+      <footer className="shell footer flex flex-wrap justify-between gap-3"><span>PressTrail</span><span>Europe/Istanbul</span></footer>
     </div>
   </div>;
 }
